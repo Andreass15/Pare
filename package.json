@@ -1,6 +1,6 @@
 {
   "name": "pare",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "Dev tools, optimized for agents. Structured, token-efficient MCP servers for git, test runners, npm, Docker, and more.",
   "main": "src/index.ts",
   "scripts": {
